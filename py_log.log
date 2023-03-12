@@ -1,0 +1,7 @@
+2023-03-12 21:30:09 INFO: Socket opened successfully
+2023-03-12 21:30:19 WARNING: Client is still not connected
+2023-03-12 21:30:21 INFO: Connected to hose
+2023-03-12 21:30:29 INFO: hose: hi
+2023-03-12 21:30:35 INFO: hose: i am good
+2023-03-12 21:31:06 INFO: hose: nice
+2023-03-12 21:32:26 ERROR: Client is not responding. Server is closed
